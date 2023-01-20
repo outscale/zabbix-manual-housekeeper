@@ -28,6 +28,8 @@ pip3 install -r requirements.txt
 
 ## Usage
 
+Fill the settings.py file with your informations about Zabbix database.
+
 ```
 python3 manual_housekeeper.py --help
 Usage: manual_housekeeper.py [options]
