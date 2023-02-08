@@ -1,7 +1,7 @@
 # Zabbix Manual Housekeeper :put_litter_in_its_place:
 
 ## Description
-Zabbix Housekeeper delete old entries without a lines limits and can blocked others requests for huge monitoring platforms.
+Zabbix Housekeeper delete old entries without a lines limits and can block others requests for huge monitoring platforms.
 
 Zabbix Manual Housekeeper can delete old entries by batch of X lines.
 
