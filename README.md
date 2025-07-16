@@ -1,5 +1,5 @@
 # Zabbix Manual Housekeeper :put_litter_in_its_place:
-[![Project Sandbox](https://docs.outscale.com/fr/userguide/_images/Project-Sandbox-yellow.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
+[![Project Archived](https://docs.outscale.com/fr/userguide/_images/Project-Archived-red.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
 
 ## Description
 Zabbix Housekeeper delete old entries without a lines limits and can block others requests for huge monitoring platforms.
